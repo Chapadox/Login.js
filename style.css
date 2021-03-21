@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: gray;
+}
+
+#salve{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#input1{
+    border-radius: 6px;
+    position: relative;
+
+}
+
+#input2{
+    border-radius: 6px;
+    position: relative;
+
+}
+#botao1{
+    position: relative;
+    top: 26px;
+    width: 70px;
+    height: 30px;
+}
+
+#divUsername{
+    font-size: 20px;
+}
+
+#divPassword{
+    font-size: 20px;
+}
+
+#divLogado{
+    position: relative;
+    bottom: -100px;
+    font-size: 30px;
+}
+

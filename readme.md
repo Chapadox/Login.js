@@ -24,8 +24,9 @@
 
 <p style="font-size:25px" align="center"><strong>Screenshots do projeto</strong></p>
 
-
-<img src="https://i.ibb.co/9p8GhF4/log1.png" alt="Pagina Inicial">
+<p align="center">
+   <img src="https://i.ibb.co/9p8GhF4/log1.png" alt="Pagina Inicial">
+</p>
 
 <img src="https://i.ibb.co/1Jc8Sym/log2.png" alt="Login bem sucedido">
 
